@@ -3,10 +3,9 @@
 
 # TOPIC: CYBERCAFE MANAGEMENT SYSTEM BY ASHRIKA MISHRA (SF ID: 260267)
 
-
-Build | Code Quality | Unity | Git Inspector
-|---------|------------|-----------|----------------
-[![C/C++ CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml)|[![Static Check](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-cppcheck.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-cppcheck.yml) [![Valgrind-check](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-dynamic-code-quality.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-dynamic-code-quality.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://www.codacy.com/gh/arc-arnob/LnT_Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arc-arnob/LnT_Mini_Project&amp;utm_campaign=Badge_Grade) [![Coverage Badge](https://img.shields.io/badge/coverage-98.71%25-blue)]()  | [![Unity-Check](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-unity.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-unity.yml) | [![git inspector CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-gitinspector.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-gitinspector.yml)
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+|---------|--------------|-----------|------------------
+|[![C/C++ CI - Build Status](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg) |[![Code Quality - Static Code - Cppcheck](https://github.com/AshrikaMishra13/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AshrikaMishra13/MiniProject_LTTS/actions/workflows/cppcheck.yml)|[![Unit Testing - Unity](https://github.com/260315/MiniProject_LTTS/actions/workflows/Unity.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/Unity.yml)|[![Contribution Check - Git Inspector](https://github.com/AshrikaMishra13/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AshrikaMishra13/MiniProject_LTTS/actions/workflows/gitinspector.yml)
 
 # DESCRIPTION: 
 The following is the description of my project:
@@ -27,7 +26,10 @@ The purpose behind this is to consolidate the concepts and practices imparted du
 | `3_Implementation` | Contains all codes and documentation |
 | `4_TestPlan and Output` | Contains Test Plans and Procedures |
 | `5_Report` | Project Report Document |
-| `6_Images` | Images related to the project |
+| `6_Images` | Images related to the project |## Challenges Faced and How Was It Overcome
+
+1. The main Challenge was about not able to calculate monthly expenses and keep record of deficit or surplus amount , Functions for calculation of the total surplus or deficit amount has been made for overcoming the issue. 
+2. There was another challenge of not able to keep a record on calculations of provident fund amount, Again a function was made to calculate the amount and give a solution.
 
 # REQUIREMENTS
 - Unit Framework Library
@@ -38,9 +40,17 @@ The purpose behind this is to consolidate the concepts and practices imparted du
 - Extension C/C++
 - Doxygen Extension
 - C/C++ Debugger Configuration
-- Code Coverage
+- Code Coverage## Challenges Faced and How Was It Overcome
+
+1. The main Challenge was about not able to calculate monthly expenses and keep record of deficit or surplus amount , Functions for calculation of the total surplus or deficit amount has been made for overcoming the issue. 
+2. There was another challenge of not able to keep a record on calculations of provident fund amount, Again a function was made to calculate the amount and give a solution.
 
 # CREDIT
 | SF ID | Name |Features | Issues Raised | Issues Resolved | No. Of Test Cases |Passed |
 | --- | --- | --- | --- | --- | --- | --- |
 | `260267`| Ashrika Mishra | A,B | 0 | 0 | 3 |Passed |
+
+## Challenges Faced and How Was It Overcome
+
+1. The main Challenge was about not able to displays log_in screen or checks, Functions for displaying the has been made for overcoming the issue. 
+2. There was another challenge of not able to keep a record of send data until the clients shuts down or disconnects. Again a function was made to resolve it.
