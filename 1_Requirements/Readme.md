@@ -32,7 +32,7 @@ Cybercafe Management System has a few inbuilt features like:
 - Login Process and its Cost
 We can say that in future sprints new features could be added in which for the enhancement of the product.
 ## SWOT Analysis
-![SWOT Analysis Chart] (https://github.com/AshrikaMishra13/MiniProject_LTTS/blob/main/1_Requirements/SWOT%20Analysis%20Chart.png)
+![SWOT Analysis Chart](https://github.com/AshrikaMishra13/MiniProject_LTTS/blob/main/1_Requirements/SWOT%20Analysis%20Chart.png)
 ## 4W's and 1'H
 ### Who:
 - Cybercafe present even in the smallest towns in the most remote locations can readily use this, avoiding human handled chance of error.
