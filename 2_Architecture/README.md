@@ -6,7 +6,7 @@
 ![Architecture](https://github.com/AshrikaMishra13/MiniProject_LTTS/blob/main/2_Architecture/Architecture.png)
 
 ## Component Design
-![Component]
+![COMPONENT](https://github.com/AshrikaMishra13/MiniProject_LTTS/blob/main/2_Architecture/COMPONENT.png)
 
 
 # Behavioural Diagrams :
