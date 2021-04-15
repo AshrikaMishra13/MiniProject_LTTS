@@ -1,4 +1,4 @@
-//Contains the socket related functions
+//Contains the socket related functions for customer module
 
 
 
