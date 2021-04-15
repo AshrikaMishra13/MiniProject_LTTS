@@ -1,4 +1,4 @@
-#include "function.h"
+#include "s_function.h"
 
 int main(){
 
