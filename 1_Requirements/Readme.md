@@ -46,8 +46,15 @@ We can say that in future sprints new features could be added in which for the e
 - If people are not able to manage their cybercafes, it may lead to great profits in their business.
 ## Detail Requirements
 ### High Level Requirements
-| ID | Description | Category | Status |
-|--|--|--|--|
-### Low Level Requirements
-| ID | Description | Category | Status |
-|--|--|--|--|
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | Customer shall be able to add their IP Address | Techincal | Successful | 
+| HR02 | Customer shall be able to get charges after all the calculations | Techincal | Successful  |
+| HR03 | Customer shall be able to download media | Techincal | Successful |
+
+###  Low level Requirements:
+ 
+| ID | Description | Status (Implemented/Future) |
+| ------ | --------- | ------ |
+| LR01 | New record shall be added by providing all the asked information | Implemented |
+| LR07 | If program not able to take input of user , it should provide what should be the correct manner of input. | Future |
