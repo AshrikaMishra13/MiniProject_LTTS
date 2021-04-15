@@ -13,6 +13,6 @@
 ## Table 2: Low Level Test Plan
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
-|-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-| T_01 | Checks if the User has given input type with respect to the datatype | 1.)User name 2.)Password 3.) IP_Adress | Datatype | In Process | Technical Based |
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|    T_01     | Checks if the User has given input type with respect to the datatype | Username & Password  | Datatype | In Process | Technical Based |
 
