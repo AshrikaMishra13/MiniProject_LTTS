@@ -3,7 +3,7 @@
 # Structural Diagrams :
 
 ## Architecture Design :
-![Architecture]
+![Architecture] (https://github.com/AshrikaMishra13/MiniProject_LTTS/blob/main/2_Architecture/Architecture.png)
 
 ## Component Design
 ![Component]
@@ -12,7 +12,7 @@
 # Behavioural Diagrams :
 
 ## Activity Design :
-![Activity]
+![Activity] (https://github.com/AshrikaMishra13/MiniProject_LTTS/blob/main/2_Architecture/Activity.png)
 
 ## Usecase Design :
-![UsecaseDiagram]
+![UsecaseDiagram] (https://github.com/AshrikaMishra13/MiniProject_LTTS/blob/main/2_Architecture/UsecaseDiagram.png)
