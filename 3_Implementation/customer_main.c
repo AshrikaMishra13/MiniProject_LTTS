@@ -1,4 +1,4 @@
-#include "function.h"
+#include "c_function.h"
 
 int main(){
    console_settings();
