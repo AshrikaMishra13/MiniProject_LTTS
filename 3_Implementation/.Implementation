@@ -1,4 +1,0 @@
-The system is divided into two modules: Customer module and Server module.
-The Server module is responsible for the management of settings and client request. 
-The client part gives clients in cyber access to the services provided by the place. 
-Both the program have different source code, and they run in accordance to one another.
