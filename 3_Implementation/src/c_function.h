@@ -1,8 +1,8 @@
 //Contains all the functions related to menu control,server and customer interfacing
 
-#include "declarations.h"
-#include "sock.h"
-#include "interface.h"
+#include "cust_declarations.h"
+#include "c_sock.h"
+#include "c_interface.h"
 
 
 void show_time(void *param) {
