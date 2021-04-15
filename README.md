@@ -1,3 +1,4 @@
+![COVER] (https://github.com/AshrikaMishra13/MiniProject_LTTS/blob/main/1_Requirements/Cover.png)
 # MiniProject_LTTS
 # TOPIC: CYBERCAFE MANAGEMENT SYSTEM BY ASHRIKA MISHRA (SF ID: 260267)
 # DESCRIPTION: 
